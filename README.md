@@ -1,5 +1,5 @@
 Description:
-ReactFood is a fully functional food ordering application built using React and Express.js. It allows users to browse a variety of meals, add them to a cart, modify quantities, and submit orders with detailed customer information. The app dynamically processes orders and stores them in a backend database, providing a seamless and user-friendly experience for food enthusiasts.
+Foodify is a fully functional food ordering application built using React and Express.js. It allows users to browse a variety of meals, add them to a cart, modify quantities, and submit orders with detailed customer information. The app dynamically processes orders and stores them in a backend database, providing a seamless and user-friendly experience for food enthusiasts.
 
 Features:
 Browse Meals:
